@@ -20,7 +20,7 @@ Simple util to show folder structure tree:
 ```
 
 ```
-go run main.go <pathToRoot> -f
+go run main.go <pathToRoot> [-f]
 ```
 
 ### Arguments
