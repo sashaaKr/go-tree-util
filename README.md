@@ -25,4 +25,5 @@ go run main.go <pathToRoot> -f
 
 ### Arguments
 `pathToRoot` - start point of scan
+
 `-f` - show files
