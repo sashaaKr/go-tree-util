@@ -18,11 +18,11 @@ Simple util to show folder structure tree:
 	│	└───empty.txt (empty)   
 	└───zzfile.txt (empty) 
 ```
-Run program:
+### Run program:
 ```
 go run main.go <pathToRoot> [-f]
 ```
-Run tests:
+### Run tests:
 ```
 go test -v
 ```
